@@ -97,3 +97,4 @@ document.addEventListener('DOMContentLoaded', function() {
     // Renderizar inicialmente
     renderMalla();
 });
+});
